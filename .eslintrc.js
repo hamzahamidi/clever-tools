@@ -13,3 +13,4 @@ module.exports = {
     'operator-linebreak': ['error', 'before'],
   },
 };
+
